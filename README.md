@@ -1,4 +1,4 @@
-# 跨交易所多币种套利系统 (Multi-Asset ArbitrageBot) - MVP版本
+# 跨交易所多币种套利系统 (Multi-Asset ArbitrageBot)
 
 这是一个MVP版本的多币种套利机器人，可以监控OKX和XT交易所的多个交易对价格差异，并进行模拟交易。
 
